@@ -1,5 +1,4 @@
 # Are You A Cat?
-## An MLOps Project for the [ZenML Month of MLOps Competition](https://blog.zenml.io/mlops-competition/)
 
 ![Test status](https://github.com/MarinaWyss/zenml-mlops-competition/workflows/run-tests/badge.svg)
 
